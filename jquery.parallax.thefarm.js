@@ -25,9 +25,9 @@
 	*		xOffset		{number}	The horizontal offset (in pixels without unit)
 	*		yOffset		{number}	The vertical offset (in pixels without unit)
 	*		xUnit		{string}	The unit that should be used when setting the
-	*								vertical background position
-	*		yUnit		{string}	The unit that should be used when setting the
 	*								horizontal background position
+	*		yUnit		{string}	The unit that should be used when setting the
+	*								vertical background position
 	*
 	*	@param  {object} options	An object containing options
 	*	@return {jQuery}			Used for chaining
