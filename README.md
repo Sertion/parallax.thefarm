@@ -6,11 +6,11 @@ Plugin for changing the background-position of elements related to the users scr
 
 * `start`
 
-	> A `functions` that returns a `boolean` which represents if the parallax should be going or not. First parameter is the element and the second is an [`.offset()`](http://api.jquery.com/animate/) object. Both start and stop needs to return true for the paralax to animate.
+	> A `function` that returns a `boolean` which represents if the parallax should be active or not. First parameter is the element and the second is an [`.offset()`](http://api.jquery.com/animate/) object. Both start and stop needs to return true for the paralax to animate.
 
 * `stop`
 
-	> A `functions` that returns a `boolean` which represents if the parallax should be going or not. First parameter is the element and the second is an [`.offset()`](http://api.jquery.com/animate/) object. Both start and stop needs to return true for the paralax to animate.
+	> A `function` that returns a `boolean` which represents if the parallax should be active or not. First parameter is the element and the second is an [`.offset()`](http://api.jquery.com/animate/) object. Both start and stop needs to return true for the paralax to animate.
 
 * `xCoeff`
 
